@@ -1,2 +1,2 @@
-# Workday Extend Wizard Workshop
-Public Repository, hosting assets for all Workday Extend Wizard Workshop sessions
+# The Wizard Sessions
+Public Repository, hosting assets for all Workday Extend Wizard Sessions
